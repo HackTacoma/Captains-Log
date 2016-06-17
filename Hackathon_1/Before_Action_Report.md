@@ -29,3 +29,5 @@ So I need 6 hours of sleep, 1 hour of excercise and down the line from highest t
   ...
 ```
 
+###Orientation
+We had an orientation last week and everything went pretty well. The only thing that sticks out at me is that we spent a little too much on plastic silverware. Went to Costco and bought way more than we needed. **:zap:ADVICE** Before you throw any kind of event or meeting at a venue, look around and see if you can score some free plastic forks, spoons, plates, napkins and much more. You have to remember that you are not the first event, meetup or whatever at the venue. So that means some group before you probably left behind a whole bunch of that kind of stuff. Just ask politely and look in the cabinets and drawers, most the time they really don't care, you are actually helping them by getting rid of that stuff :clap:.
