@@ -1,6 +1,8 @@
 #:clock12: 00:00
 
-Ok so we are about 24 hours away from the hackathon. In six hours it will be 06:00, add another six and we are sitting at 12:00. Half the day has passed. This is why we use military time. It really helps you to visualize a concept like a day
+Ok so we are about 24 hours away from the hackathon. In 6 hours it will be 06:00, add another 6 and we are sitting at 12:00. Half the day has passed. This is why we use military time. 
+
+It really helps you to visualize a concept like a day
 
 :sunrise::sunrise_over_mountains::city_sunset::stars: 
 
@@ -18,5 +20,12 @@ Alright so I have 24 of these boxes or compartments of time to do stuff. Sleep, 
 
 Things must have a priority level of 8 and above to receive any resources (time).
 
-So I need six hours of sleep, 1/4 of the day
+So I need 6 hours of sleep, 1 hour of excercise and down the line from highest to lowest
+
+```swift
+  let sleep: Double = (24 * 0.25) // 6 compartments
+  let excercise: Double = (24 * 0.04166666667 // 1 hour; I think; approximate)
+  let researchApi: Double = (24 * 0.25) // about 4 - 6 compartments
+  ...
+```
 
