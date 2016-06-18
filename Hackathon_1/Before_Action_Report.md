@@ -38,7 +38,7 @@ We had an orientation last week and everything went pretty well. The only thing 
  recon the venue and see if you can score some free stuff
 ```
 
-There are almost always free plastic forks, spoons, plates, napkins and much more. You have to remember that you are not the first event, meetup or whatever at the venue. So that means some group before you probably left behind a whole bunch of that kind of stuff. Just ask politely and look in the cabinets and drawers, most the time they really don't care, you are actually helping them by getting rid of that stuff :clap:.
+There are almost always free plastic forks, spoons, plates, napkins and much more. You have to remember that you are not the first event, meetup or whatever at the venue. So that means some group before you probably left behind a whole bunch of that kind of stuff. Just ask politely and look in the cabinets and drawers, 99% of the time the staff really don't care, you are actually helping them by getting rid of that stuff :clap:.
 
 ###Digital IQ
 So there was or is a big push in the media saying that everyone should learn how to code. I don't know how I feel about that. I'm not saying thats right or wrong but coding, programming, developing... takes an acquired taste, its not for everyone. You have to actually like it. I think the people who want to program and have an interest in it should, everyone else needs to just learn how SHIT works. 
@@ -47,6 +47,8 @@ So there was or is a big push in the media saying that everyone should learn how
 ```swift
  I think we just have to raise digital literacy up
  teach people how all these gadgets work
+ make them aware of events like hackathons
+ show them that coding is not really scary or esoteric
 ```
 
 Wifi is just radio waves, that image you are looking at on your phone is just a bag of bits, instructions to your phone telling it where to lay each pixel on the screen:iphone:. I think if we peel some of the mystery and magic behind some the gadgets we use, people won't be so enamored by the gadget itself, but rather by the technology that drives it. Think about all the discoveries and advances in science some really smart people had to make in order for the internet, computers, tablets, smartphones to exist. From Ada Lovelace, Gordon Moore, Brian Fox, Michael Fraday, John von Neumann, Dennis Ritchie, Tim Berners-Lee, Bill Joy, cat vidoes:smile_cat:, the list goes on.    
