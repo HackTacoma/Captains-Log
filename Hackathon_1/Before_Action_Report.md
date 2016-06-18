@@ -63,3 +63,7 @@ We are now 4 hours away from starting the hackathon. At this point I am just hop
 ```swift
 Do 1 thing right instead of trying to do many things poorly. 
 ```
+
+#:clock9: 21:00
+
+Wale just introduced Dramatic Structure, also sometimes called Freytag's Pyramid to the project. Its sort of like a framework to use to tell a story on how your product would be used by a consumer. This is why its so important to get smart people from different backgrounds together into a room and build stuff. Everybody adds a little to the pot you know. 
