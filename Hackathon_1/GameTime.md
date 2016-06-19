@@ -37,7 +37,7 @@ Be smart and take regular breaks
 
 Most the team seam pretty beat too lol. But this is what it's all about. No one is quitting. You know, how often do you put yourself through a crucible :muscle: ? How often do you push yourself? I am really proud of everyone here. Everybody is working really hard. I mean we are working through each error, bug and headache, just slaving through this code. I am waking up a little bit now after the nap. I am ready for another 12 hours. The team is giving me energy. Every team appears to have got caught on some problem. We all need to take a break collectively. I've been stuck for a like 2 hours now. I just had to step away. I think the web team just made a break through. They solved a problem they've been stuck on some time now, cool.
 
-#ACT II
+#ACT III
 ##12:00 - 17:59
 
 
