@@ -43,5 +43,6 @@ Most the team seam pretty beat too lol. But this is what it's all about. No one 
 Wow, 6 hours to go. We came a long way. We are at the final frontier. The mobile client is uploading exif data to firebase and now we just have to pull it down and plot it on a map. Phew! We are just putting our heads down and finishing up. Lets do it.
 
 #ACT IV
+##18:00 - 23:59
 
 We started celebrating because we actually finished at the tail end of ACT III. It was amazing because everyone gathered around together to get over the last hurdle. So I guess for ACT IV we just partied and celebrated. We popped a bottle of champagne and ate dinner. Most people stayed and hung out afterwards. We cleaned up and headed out. I just want to say I am very proud of everyone and great job. 
