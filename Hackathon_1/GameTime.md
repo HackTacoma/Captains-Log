@@ -40,4 +40,4 @@ Most the team seam pretty beat too lol. But this is what it's all about. No one 
 #ACT III
 ##12:00 - 17:59
 
-
+Wow, 6 hours to go. We came a long way. We are at the final frontier. The mobile client is uploading exif data to firebase and now we just have to pull it down and plot it on a map. Phew! We are just putting our heads down and finishing up. Lets do it.
