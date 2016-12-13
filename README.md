@@ -11,3 +11,4 @@ In this repo there are going to be reports on each project/hackathon. Each proje
 * random tangents
 * advice for future Kevia and others
 * anything and everything I think that needs to be documented
+* what can I do to improve
